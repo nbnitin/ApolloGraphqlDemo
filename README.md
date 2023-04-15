@@ -20,7 +20,7 @@
 2. Download node js to support npm commands https://nodejs.org/en/download
 
 3. Download tar file or clone the git or download the source code zip file from latest apollo iOS cli https://github.com/apollographql/apollo-ios/releases
-	**if you download cli.tar.zip and unzip it you may face unidentified error in mac while opening that, follow below steps to open it 
+	**if you download cli.tar.zip and unzip it you may face unidentified error in mac while opening that, follow below steps to open it** 
 
 In the Finder  on your Mac, locate the app you want to open.
 
@@ -28,7 +28,7 @@ Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the sh
 
 Control-click the app icon, then choose Open from the shortcut menu.
 
-Click Open.**
+Click Open.
 
 
 4. Unzip this file and using terminal go to this folder and run make build-cli
