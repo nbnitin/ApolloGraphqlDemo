@@ -34,6 +34,9 @@
 
 
 	1.	open project and click on top of your project and select project and Package Dependencies click + button -> in next window click on add local -> and navigate to generated schema and add it to your project
-	2.	Under targets -> General > Frameworks, Libraries, and Embedded Content click on + next window you must see seperate section of Workspace > Schema Name Api -> click on that and add it your project
+	<img width="1500" alt="Screenshot 2023-04-15 at 4 02 22 PM" src="https://user-images.githubusercontent.com/5785670/232208698-992103fa-fc99-423d-b302-afb19e12aca2.png">
+
+	2.	Under targets -> General > Frameworks, Libraries, and Embedded Content click on + next window you must see seperate section of Workspace > Schema Name Api -> click on that and add it your project, if it doesn't display restart xcode once and try again.
+<img width="1240" alt="Screenshot 2023-04-15 at 4 02 55 PM" src="https://user-images.githubusercontent.com/5785670/232208733-1354e524-caf4-47b5-ba5d-1f4d62918209.png">
 
 
