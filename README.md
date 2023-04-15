@@ -19,7 +19,7 @@
 
 2. Download node js to support npm commands https://nodejs.org/en/download
 
-3. Download tar file from latest apollo iOS cli https://github.com/apollographql/apollo-ios/releases
+3. Download tar file or clone the git or download the source code zip file from latest apollo iOS cli https://github.com/apollographql/apollo-ios/releases
 
 4. Unzip this file and using terminal go to this folder and run make build-cli
 
