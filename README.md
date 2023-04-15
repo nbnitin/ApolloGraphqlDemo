@@ -40,3 +40,26 @@
 <img width="1240" alt="Screenshot 2023-04-15 at 4 02 55 PM" src="https://user-images.githubusercontent.com/5785670/232208733-1354e524-caf4-47b5-ba5d-1f4d62918209.png">
 
 
+Sample GraphqlApi https://rickandmortyapi.com/graphql
+query {
+  characters(page: 2, filter: { name: "rick" }) {
+    info {
+      count
+    }
+    results {
+      name
+    }
+  }
+  location(id: 1) {
+    id
+  }
+  episodesByIds(ids: [1, 2]) {
+    id
+  }
+}
+https://rickandmortyapi.com/documentation/
+
+**GraphQL Client or playground**
+https://altairgraphql.dev/
+
+
