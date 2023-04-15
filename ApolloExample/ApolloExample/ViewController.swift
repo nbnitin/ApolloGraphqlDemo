@@ -9,6 +9,7 @@ import UIKit
 import Apollo
 import StarWarsAPI
 
+//you can't create and use your own model, but what if we require to do so then you can create extension of graphql generated model and use it like below
 struct ki {
     let c : String?
 }
