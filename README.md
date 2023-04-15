@@ -20,10 +20,20 @@
 2. Download node js to support npm commands https://nodejs.org/en/download
 
 3. Download tar file or clone the git or download the source code zip file from latest apollo iOS cli https://github.com/apollographql/apollo-ios/releases
+	**if you download cli.tar.zip and unzip it you may face unidentified error in mac while opening that, follow below steps to open it 
+
+In the Finder  on your Mac, locate the app you want to open.
+
+Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the shortcut menu.
+
+Control-click the app icon, then choose Open from the shortcut menu.
+
+Click Open.**
+
 
 4. Unzip this file and using terminal go to this folder and run make build-cli
 
-5. This will compile the Codegen CLI which you will find at .build/release/apollo-ios-cli. You can run the CLI from this directory, move it to another location, or add it to your shell $path or your project or you can copy executable file into your directory (press command + shift + . to see the hidden folder)
+5. This will compile the Codegen CLI which you will find at .build/release/apollo-ios-cli. You can run the CLI from this directory, move it to another location, or add it to your shell $path or your project or you can copy executable file into your directory (press command + shift + . to see the hidden folder) 
 
 6. Create codegen configuration file
 ./apollo-ios-cli init --schema-name StarWarsAPI --module-type swiftPackageManager
