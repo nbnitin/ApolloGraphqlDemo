@@ -8,7 +8,7 @@
 
 4.	For Apollo iOS to generate models for your GraphQL operations, you need a local copy of your GraphQL server's schema. We can directly use these generated model in our project, we don’t need to create model by our own
 
-5.	Create .graphql for operation, and .graphqls for schema
+5.	Create .graphql for operation, and .graphqls for schema Note:- Rename the file extension from .graphql to .graphqls. Note the s on the end signifying a GraphQL schema file.
 
 6.	create client and you are ready to hit
 
