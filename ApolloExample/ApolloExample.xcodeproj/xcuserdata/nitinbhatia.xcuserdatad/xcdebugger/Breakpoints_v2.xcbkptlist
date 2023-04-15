@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BEF4331-79F8-45D7-BFD6-44C02B35D0C3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F979E57-F665-4393-B330-996FE2DDD901"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - 22161216dd3d4d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f61479314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f61479314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f614792a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f61479390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f61479356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8F979E57-F665-4393-B330-996FE2DDD901 - f7f5e57f614793b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f61479146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f61479146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1604">
+               </Location>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f6147901c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f61479104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f614790da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "404A1AB5-00A5-413F-B0BB-552331EC8BE0 - f7f5e57f61479127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f614793d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f61479337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f61479337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f614792cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f614793b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f61479289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "46EDD518-3E02-4458-BE91-81E271A85D9E - f7f5e57f614793d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - 22161216dd3d4d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f614793f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f614793f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f61479289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f61479071"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f61479337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "99B6239D-D212-4CC4-96F8-4F8043E0EDD9 - f7f5e57f61479390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;StarWarsAPI.GetCharsQuery.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/ApolloExample/ApolloExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8F8AF8D-A7BE-4AB4-BC8B-750FDCB0A17D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

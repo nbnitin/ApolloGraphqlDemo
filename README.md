@@ -23,7 +23,7 @@
 
 4. Unzip this file and using terminal go to this folder and run make build-cli
 
-5. This will compile the Codegen CLI which you will find at .build/release/apollo-ios-cli. You can run the CLI from this directory, move it to another location, or add it to your shell $path or your project 
+5. This will compile the Codegen CLI which you will find at .build/release/apollo-ios-cli. You can run the CLI from this directory, move it to another location, or add it to your shell $path or your project or you can copy executable file into your directory
 
 6. Create codegen configuration file
 ./apollo-ios-cli init --schema-name StarWarsAPI --module-type swiftPackageManager
